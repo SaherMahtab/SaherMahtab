@@ -100,7 +100,7 @@
 ---
 
 ### ✨ Fun Fact:
-> I love blending enterprise tech with creative front-end frameworks and continuously improving my DevOps skills on weekends 🚀
+> I love blending enterprise tech with creative front-end frameworks and continuously improving my DevOps skills on weekends🚀
 
 ---
 
