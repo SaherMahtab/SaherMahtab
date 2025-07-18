@@ -79,12 +79,6 @@
 <a href="https://experience.sap.com/fiori-design-web/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP Fiori" width="40" height="40"/>
 </a>
-<a href="https://cap.cloud.sap/docs/" target="_blank" rel="noreferrer">
-  <img src="https://cap.cloud.sap/docs/images/logo.svg" alt="SAP CAP" width="40" height="40"/>
-</a>
-<a href="https://sapui5.hana.ondemand.com/" target="_blank" rel="noreferrer">
-  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="SAP UI5" width="40" height="40"/>
-</a>
 </p>
 
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
