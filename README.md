@@ -1,4 +1,6 @@
-# Hi 👋, I'm Saher Mahtab
+<!-- Centered name header -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00BFFF">Saher Mahtab</span></h1>
+<p align="center">💻 MTech Student | Developer at SAP Labs | Full Stack Enthusiast 🚀</p>
 
 🎓 I'm an M.Tech student and a passionate Software Developer at **SAP Labs** with a background in Computer Science Engineering (B.Tech).  
 🚀 I build robust enterprise applications, contribute to cloud-native development, and constantly explore new tech stacks and innovations in the SAP ecosystem.
@@ -6,19 +8,19 @@
 ---
 
 ### 💼 What I Do:
-- 🌱 Currently exploring **Microservices**, **Cloud-Native Development**, and **SAP Business Technology Platform**
-- 💻 Developing with **Java**, **Spring Boot**, **Maven**, **Docker**, **Kubernetes**
-- 🌐 Building UIs with **Angular**, **SAP UI5**, **SAP Fiori**
-- ⚙️ Working on enterprise apps using **SAP CAP (Cloud Application Programming Model)**
-- 📚 Balancing between **academics** and **industry-grade development**
+🌱 Currently exploring **Microservices**, **Cloud-Native Development**, and **SAP Business Technology Platform**
+💻 Developing with **Java**, **Spring Boot**, **Maven**, **Docker**, **Kubernetes**
+🌐 Building UIs with **Angular**, **SAP UI5**, **SAP Fiori**
+⚙️ Working on enterprise apps using **SAP CAP (Cloud Application Programming Model)**
+📚 Balancing between **academics** and **industry-grade development**
 
 ---
 
 ### 📫 How to Reach Me:
-- ✉️ Email: mahtabanam544@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/sahermahtab/
-- 📝 Medium: https://medium.com/@mahtabanam544
-  
+✉️ Email: mahtabanam544@gmail.com
+💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sahermahtab/)
+📝 Medium: [https://medium.com/@your-medium](https://medium.com/@mahtabanam544)
+
 ---
 
 ### 🛠️ Tech Stack & Tools:
@@ -35,6 +37,24 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/fluency/48/spring-logo.png" alt="Spring Boot"/>
+  <img src="https://img.icons8.com/office/48/maven.png" alt="Maven"/>
+  <img src="https://img.icons8.com/fluency/48/docker.png" alt="Docker"/>
+  <img src="https://img.icons8.com/color/48/kubernetes.png" alt="Kubernetes"/>
+  <img src="https://img.icons8.com/color/48/angularjs.png" alt="Angular"/>
+  <img src="https://img.icons8.com/ios-filled/50/000000/sap.png" alt="SAP UI5 / Fiori"/>
+  <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" width="48" alt="SAP CAP"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/html-5--v1.png" alt="HTML5"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS3"/>
+  <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
+  <img src="https://img.icons8.com/ios-glyphs/48/github.png" alt="GitHub"/>
+  <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png" alt="Postman"/>
+  <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
+</p>
 
 ---
 
