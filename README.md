@@ -18,8 +18,8 @@
 
 ### 📫 How to Reach Me:
 ✉️ Email: mahtabanam544@gmail.com      
-💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sahermahtab/)     
-📝 Medium: [https://medium.com/@your-medium](https://medium.com/@mahtabanam544)     
+💼 LinkedIn: [https://www.linkedin.com/in/sahermahtab/](https://www.linkedin.com/in/sahermahtab/)     
+📝 Medium: [https://medium.com/@mahtabanam544](https://medium.com/@mahtabanam544)     
 
 ---
 
