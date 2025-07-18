@@ -17,16 +17,16 @@
 ---
 
 ### 📫 How to Reach Me:
-✉️ Email: mahtabanam544@gmail.com
-💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sahermahtab/)
-📝 Medium: [https://medium.com/@your-medium](https://medium.com/@mahtabanam544)
+✉️ Email: mahtabanam544@gmail.com      
+💼 LinkedIn: [https://linkedin.com/in/your-link](https://www.linkedin.com/in/sahermahtab/)     
+📝 Medium: [https://medium.com/@your-medium](https://medium.com/@mahtabanam544)     
 
 ---
 
 ### 🛠️ Tech Stack & Tools:
+
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -37,6 +37,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
